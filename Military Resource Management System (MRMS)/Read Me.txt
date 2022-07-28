@@ -1,0 +1,5 @@
+Administrator Account
+Username: MRMS
+Password: admin
+
+Note: You can create personnels and check their passwords on admin panel.
